@@ -1,3 +1,7 @@
 # hello-world
-This depository is for a school project at UCCS
-Software engineering 3300.003
+
+Hello world. I am BIG-BEN-Coder. The coolest dude in the west.
+
+
+
+
